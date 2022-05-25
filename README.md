@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Areyan35-991
-- 👀 I’m interested in programming 
-- 🌱 I’m currently studying Software Engineering 
+- 🌱 I’m currently studying Software Engineering at Daffodil Internationational University
 
 <!---
 Areyan35-991/Areyan35-991 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
